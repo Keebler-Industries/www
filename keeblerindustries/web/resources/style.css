@@ -1,0 +1,70 @@
+@font-face {
+    font-family: alfa-slab-one;
+    src: url(font/AlfaSlabOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: montserrat-light;
+    src: url(font/Montserrat-Light.otf);
+}
+
+html body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #EEEEEE;
+}
+
+#content {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+#navbar {
+    background-color: #FFFFFF;
+    font-family: alfa-slab-one;
+    letter-spacing: 8px;
+    border-bottom: 1px solid gray;
+}
+
+#navicon {
+    display: inline;
+    height: 75px;
+    width: 75px;
+    position: relative;
+    top: 8px;
+}
+
+#navbarname {
+    display: inline-block;
+    position: relative;
+    font-size: 48px;
+    bottom: 12px;
+}
+
+#navbarmenu {
+    display: inline;
+    float: right;
+    font-family: montserrat-light;
+    font-size: 20px;
+    position: relative;
+    top: 32px;
+}
+
+.navbarmenu{
+    padding: 0px 25px 0px 25px;
+}
+
+a {
+    color: black;
+    transition: 0.2s;
+    text-decoration: none;
+}
+
+.navbarmenu:hover a {
+    color: #DDDDDD;
+}
+
+.homelink:hover {
+    color: #000000;
+}
