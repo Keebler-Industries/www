@@ -1,0 +1,18 @@
+
+<script>
+    function calculate() {
+        if(document.getElementById("n1").value.includes("jess") || document.getElementById("n2").value.includes("jess")) {
+            document.getElementById("chance").innerHTML = "0%";
+        } else {
+            document.getElementById("chance").innerHTML = Math.floor(Math.random() * 101) + "%";
+        }
+    }
+</script>
+
+<h1>love calculator</h1>
+<span>Name 1: <input id="n1"></input></span>
+<br>
+<span>Name 2: <input id="n2"></input></span>
+<br>
+<span>Chance of success: <span id="chance"></span></span>
+<button onclick="calculate();">Calculate</button>
