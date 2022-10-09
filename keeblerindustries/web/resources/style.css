@@ -8,6 +8,11 @@
     src: url(font/Montserrat-Light.otf);
 }
 
+@font-face {
+    font-family: montserrat;
+    src: url(font/Montserrat-Regular.otf);
+}
+
 html body {
     margin-top: 0px;
     margin-left: 0px;
@@ -46,7 +51,7 @@ html body {
 #navbarmenu {
     display: inline;
     float: right;
-    font-family: montserrat-light;
+    font-family: montserrat;
     font-size: 20px;
     position: relative;
     top: 32px;
