@@ -6,7 +6,9 @@
     </head>
     <body>
         <?php readfile("/var/server/www/keeblerindustries/web/resources/navbar.html"); ?>
-        <div id="content"></div>
+        <div id="content">
+            <h1>Professional Glassblower</h1>
+        </div>
         <div id="footer"></div>
     </body>
 </html>
