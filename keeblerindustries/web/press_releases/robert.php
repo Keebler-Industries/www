@@ -1,20 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Press Releases</title>
+        <title>Denouncing Robert Fahie</title>
         <link rel="stylesheet" href="resources/press.css">
         <?php readfile("/var/server/www/keeblerindustries/web/resources/header.html"); ?>
     </head>
     <body>
         <?php readfile("/var/server/www/keeblerindustries/web/resources/navbar.html"); ?>
         <div id="content">
-            <a href="press_releases/robert.php">
-                <div class="release">
-                    <h1>Official Statement Denouncing the acts of Robert Liam Fahie</h1>
-                    <p>Saturday, 15 Oct 2022&mdash;2:07AM</p> 
-                </div>
-            </a>
-            <hr>
+            <h1>Keebler Industries Int'l Assoc. has determined that Robert Liam Fahie has breached our Core Principles and we will be hereby denouncing all of his further actions.</h1>
         </div>
         <div id="footer"></div>
     </body>
