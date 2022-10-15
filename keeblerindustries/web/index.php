@@ -2,6 +2,9 @@
 <html>
     <head>
         <title>Keebler Industries</title>
+        <meta property="og:title" content="Keebler Industries">
+        <meta property="og:description" content="james sucks">
+        <meta property="og:image" content="https://www.keeblerindustries.com/resources/icon.png">
         <?php readfile("/var/server/www/keeblerindustries/web/resources/header.html"); ?>
     </head>
     <body>

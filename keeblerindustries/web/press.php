@@ -4,6 +4,9 @@
         <title>Press Releases</title>
         <link rel="stylesheet" href="resources/press.css">
         <?php readfile("/var/server/www/keeblerindustries/web/resources/header.html"); ?>
+        <meta property="og:title" content="Keebler Industries">
+        <meta property="og:description" content="Press Releases">
+        <meta property="og:image" content="https://www.keeblerindustries.com/resources/icon.png">
     </head>
     <body>
         <?php readfile("/var/server/www/keeblerindustries/web/resources/navbar.html"); ?>
