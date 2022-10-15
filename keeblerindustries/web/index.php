@@ -7,7 +7,8 @@
     <body>
         <?php readfile("/var/server/www/keeblerindustries/web/resources/navbar.html"); ?>
         <div id="content">
-            <h1>Professional Glassblower</h1>
+            <h1>Keebler17 - Professional Glassblower</h1>
+            <br>
         </div>
         <div id="footer"></div>
     </body>
