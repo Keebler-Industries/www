@@ -13,7 +13,8 @@
         <div id="content">
             <a href="press_releases/robert.php">
                 <div class="release">
-                    <h1>Official Statement Denouncing the acts of Robert Liam Fahie</h1>
+                    <!-- <h1>Official Statement Denouncing the acts of Robert Liam Fahie</h1> -->
+                    <h1>Offical Statement Denouncing the</h1>
                     <p>Saturday, 15 Oct 2022&mdash;2:07AM</p> 
                 </div>
             </a>
